@@ -12,7 +12,7 @@ def print_banner():
     ###############################################################
     #                                                             #
     #        Created by: Omar Housni                              #
-    #        GitHub: https://github.com/fuscasec/securityqcm      #
+    #        GitHub: https://github.com/ohousni/securityqcm      #
     #                                                             #
     ###############################################################
     """)
