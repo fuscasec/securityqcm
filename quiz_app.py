@@ -5,16 +5,16 @@ import os
 def print_banner():
     """Prints the startup banner."""
     print(r"""
-    #############################################################################
-    #                                                                           #
-    #             SECURITY+ SY0-701 PRACTICE EXAM                               #
-    #                                                                           #
-    #############################################################################
-    #                                                                           #
-    #          Created by: Omar Housni                                          #
-    #          GitHub: https://github.com/omarhousni2005-pixel/securityqcm      #
-    #                                                                           #
-    #############################################################################
+    ###############################################################
+    #                                                             #
+    #             SECURITY+ SY0-701 PRACTICE EXAM                 #
+    #                                                             #
+    ###############################################################
+    #                                                             #
+    #        Created by: Omar Housni                              #
+    #        GitHub: https://github.com/fuscasec/securityqcm      #
+    #                                                             #
+    ###############################################################
     """)
 
 def load_questions(filename="qcm.json"):
