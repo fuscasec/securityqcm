@@ -28,7 +28,7 @@ def print_banner():
     ###############################################################
     #                                                             #
     #        Created by: Omar Housni                              #
-    #        GitHub: https://github.com/ohousni/securityqcm       #
+    #        GitHub: https://github.com/ohousni/quiz_runner       #
     #                                                             #
     ###############################################################
     """)
